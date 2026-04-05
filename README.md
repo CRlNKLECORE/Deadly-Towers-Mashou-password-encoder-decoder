@@ -23,7 +23,9 @@ Alphabet mapping:
 
 
 00 = .
+
 01–1A = A–Z
+
 1B–1F = 1–5
 
 
