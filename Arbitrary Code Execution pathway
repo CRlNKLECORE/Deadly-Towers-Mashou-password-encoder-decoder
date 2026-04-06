@@ -1,7 +1,7 @@
 Deadly Towers (EN) Mashou (JP) – Arbitrary Code Execution via Inventory Pointer Corruption
 Overview
 
-This document describes a method for achieving arbitrary code execution (ACE) in the Japanese and US release of Deadly Towers on the NES. The same technique may be applicable to the US version, pending validation of memory layout and code paths.
+This document describes a method for achieving arbitrary code execution (ACE) in the Japanese and US release of Deadly Towers on the NES.
 
 The exploit chain leverages:
 
